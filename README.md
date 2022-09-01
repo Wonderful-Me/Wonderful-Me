@@ -14,6 +14,11 @@
 ![C++](https://img.shields.io/badge/-C++-192133?style=flat-square&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-192133?style=flat-square&logo=python&logoColor=white)
 ![Verilog](https://img.shields.io/badge/-Verilog-192133?style=flat-square&logo=verilog&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-%233776ab?logo=python&style=for-the-badge&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-%23eeeeee?logo=flask&style=for-the-badge&logoColor=black)
+![Django](https://img.shields.io/badge/-Django-%23092E20?logo=django&style=for-the-badge&logoColor=white)
+![Vue.js](https://img.shields.io/badge/-Vue.js-%234fc08d?logo=vue.js&style=for-the-badge&logoColor=white)
+![React](https://img.shields.io/badge/-React-%2357d8fb?logo=react&style=for-the-badge&logoColor=white)
 ![Markdown](https://img.shields.io/badge/-MySQL-192133?style=flat-square&logo=markdown&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/-MySQL-192133?style=flat-square&logo=obsidian&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/-PHP-192133?style=flat-square&logo=visualstudiocode&logoColor=white)
@@ -78,14 +83,5 @@ It's the **white** team's turn to play. ![](/assets/white.png)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Wonderful-Me&theme=dark&layout=compact) 
 ![](https://activity-graph.herokuapp.com/graph?username=Wonderful-Me&theme=github)
 
-<div align="center">
-
-![Python](https://img.shields.io/badge/-Python-%233776ab?logo=python&style=for-the-badge&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-%23eeeeee?logo=flask&style=for-the-badge&logoColor=black)
-![Django](https://img.shields.io/badge/-Django-%23092E20?logo=django&style=for-the-badge&logoColor=white)
-![Vue.js](https://img.shields.io/badge/-Vue.js-%234fc08d?logo=vue.js&style=for-the-badge&logoColor=white)
-![React](https://img.shields.io/badge/-React-%2357d8fb?logo=react&style=for-the-badge&logoColor=white)
-
-</div>
 
 
