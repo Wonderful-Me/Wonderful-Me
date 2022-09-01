@@ -18,21 +18,6 @@
 ![Obsidian](https://img.shields.io/badge/-MySQL-192133?style=flat-square&logo=obsidian&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/-PHP-192133?style=flat-square&logo=visualstudiocode&logoColor=white)
 
-## Brief Summary ✨
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Wonderful-Me&show_icons=true&theme=dark&count_private=true) 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Wonderful-Me&theme=dark&layout=compact) 
-![](https://activity-graph.herokuapp.com/graph?username=Wonderful-Me&theme=github)
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/-Python-%233776ab?logo=python&style=for-the-badge&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-%23eeeeee?logo=flask&style=for-the-badge&logoColor=black)
-![Django](https://img.shields.io/badge/-Django-%23092E20?logo=django&style=for-the-badge&logoColor=white)
-![Vue.js](https://img.shields.io/badge/-Vue.js-%234fc08d?logo=vue.js&style=for-the-badge&logoColor=white)
-![React](https://img.shields.io/badge/-React-%2357d8fb?logo=react&style=for-the-badge&logoColor=white)
-
-</div>
-
 ## :game_die: Join my community [Gomoku(五子棋)](https://en.wikipedia.org/wiki/Gomoku) game!
 
 <!--START_SECTION:gomoku-->
@@ -82,3 +67,20 @@ It's the **black** team's turn to play. ![](/assets/black.png)
 | [@Where-is-Beat](https://github.com/Where-is-Beat) | 1 |
 
 <!--END_SECTION:gomoku-->
+
+## Brief Summary ✨
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Wonderful-Me&show_icons=true&theme=dark&count_private=true) 
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Wonderful-Me&theme=dark&layout=compact) 
+![](https://activity-graph.herokuapp.com/graph?username=Wonderful-Me&theme=github)
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/-Python-%233776ab?logo=python&style=for-the-badge&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-%23eeeeee?logo=flask&style=for-the-badge&logoColor=black)
+![Django](https://img.shields.io/badge/-Django-%23092E20?logo=django&style=for-the-badge&logoColor=white)
+![Vue.js](https://img.shields.io/badge/-Vue.js-%234fc08d?logo=vue.js&style=for-the-badge&logoColor=white)
+![React](https://img.shields.io/badge/-React-%2357d8fb?logo=react&style=for-the-badge&logoColor=white)
+
+</div>
+
+
