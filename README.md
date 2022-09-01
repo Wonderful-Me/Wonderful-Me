@@ -1,5 +1,3 @@
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/contribution-snake/github-contribution-grid-snake.svg" /></div>
-
 ## Hi, I'm Infinity! ![](https://visitor-badge.glitch.me/badge?page_id=Wonderful-Me.readme)
 - 🔭 I’m currently major in Computer Science and Technology.
 - 🌱 I’m currently learning in *System Group*.
