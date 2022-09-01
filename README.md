@@ -36,9 +36,9 @@
 ## :game_die: Join my community [Gomoku(五子棋)](https://en.wikipedia.org/wiki/Gomoku) game!
 
 <!--START_SECTION:gomoku-->
-![](https://img.shields.io/badge/Total%20moves-263-blue)
-![](https://img.shields.io/badge/Completed%20games-19-brightgreen)
-![](https://img.shields.io/badge/Total%20players-119-orange)
+![](https://img.shields.io/badge/Total%20moves-265-blue)
+![](https://img.shields.io/badge/Completed%20games-20-brightgreen)
+![](https://img.shields.io/badge/Total%20players-120-orange)
 
 Everyone is welcome to participate! To make a move, click on the blank cell you wish to drop your piece in.
 
@@ -46,6 +46,8 @@ Everyone is welcome to participate! To make a move, click on the blank cell you 
 It's the **black** team's turn to play. ![](/assets/black.png)
 
 [![Surrender](https://img.shields.io/badge/Surrender%20-%2348e3c9.svg?&style=for-the-badge&logoColor=white)](https://github.com/Wonderful-Me/Wonderful-Me/issues/new?title=gomoku%7Csurrender&labels=gomoku&body=Just+push+%27Submit+new+issue%27+without+editing+the+title.+The+README+will+be+updated+after+approximately+30+seconds.)
+
+
 
 | |A|B|C|D|E|F|G|H|I|
 | - | - | - | - | - | - | - | - | - | - |
@@ -68,5 +70,15 @@ It's the **black** team's turn to play. ![](/assets/black.png)
 **:trophy: Hall of Fame: Top 10 players with the most game winning moves :1st_place_medal:**
 | Player | Wins |
 | ------ | -----|
+| [@pi-dal](https://github.com/pi-dal) | 4 |
+| [@yihong0618](https://github.com/yihong0618) | 2 |
+| [@Insutanto](https://github.com/Insutanto) | 1 |
+| [@erquren](https://github.com/erquren) | 1 |
+| [@chaleaoch](https://github.com/chaleaoch) | 1 |
+| [@z-t-y](https://github.com/z-t-y) | 1 |
+| [@frostming](https://github.com/frostming) | 1 |
+| [@iOSleep](https://github.com/iOSleep) | 1 |
+| [@jackyfzh](https://github.com/jackyfzh) | 1 |
+| [@Where-is-Beat](https://github.com/Where-is-Beat) | 1 |
 
 <!--END_SECTION:gomoku-->
