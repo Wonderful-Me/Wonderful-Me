@@ -34,8 +34,9 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           git config --local user.email "action@github.com"
-          git config --local user.name "Action"
+          git config --local user.name "GitHub Action"
           python -m chess.runner
+
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
