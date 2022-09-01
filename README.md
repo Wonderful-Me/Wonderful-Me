@@ -11,17 +11,14 @@
 - ⚡ Fun fact: [Blog](https://wonderful-me.github.io/) (to be done)
 
 ## Tech Stack
-![C++](https://img.shields.io/badge/-C++-192133?style=flat-square&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-192133?style=flat-square&logo=python&logoColor=white)
-![Verilog](https://img.shields.io/badge/-Verilog-192133?style=flat-square&logo=verilog&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-%233776ab?logo=cplusplus&style=for-the-badge&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-%233776ab?logo=python&style=for-the-badge&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%233776ab?logo=javascript&style=for-the-badge&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-%23eeeeee?logo=flask&style=for-the-badge&logoColor=black)
-![Django](https://img.shields.io/badge/-Django-%23092E20?logo=django&style=for-the-badge&logoColor=white)
-![Vue.js](https://img.shields.io/badge/-Vue.js-%234fc08d?logo=vue.js&style=for-the-badge&logoColor=white)
-![React](https://img.shields.io/badge/-React-%2357d8fb?logo=react&style=for-the-badge&logoColor=white)
-![Markdown](https://img.shields.io/badge/-MySQL-192133?style=flat-square&logo=markdown&logoColor=white)
-![Obsidian](https://img.shields.io/badge/-MySQL-192133?style=flat-square&logo=obsidian&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/-PHP-192133?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Markdown](https://img.shields.io/badge/-Markdown-192133?style=flat-square&logo=markdown&logoColor=white)
+![Obsidian](https://img.shields.io/badge/-Obsidian-192133?style=flat-square&logo=obsidian&logoColor=white)
+![Jupyter](https://img.shields.io/badge/-Jupyter-192133?style=flat-square&logo=jupyter&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/-Visual Studio Code-192133?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 ## :game_die: Join my community [Gomoku(五子棋)](https://en.wikipedia.org/wiki/Gomoku) game!
 
