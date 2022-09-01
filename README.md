@@ -22,7 +22,7 @@
 
 <!--START_SECTION:gomoku-->
 ![](https://img.shields.io/badge/Total%20moves-265-blue)
-![](https://img.shields.io/badge/Completed%20games-20-brightgreen)
+![](https://img.shields.io/badge/Completed%20games-19-brightgreen)
 ![](https://img.shields.io/badge/Total%20players-120-orange)
 
 Everyone is welcome to participate! To make a move, click on the blank cell you wish to drop your piece in.
