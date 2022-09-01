@@ -1,4 +1,6 @@
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,%20friend!;Welcome%20to%20xyy's%20Github%20Page!&font=Roboto" /> 
+# Hi, Welcome to xyy's Github Homepage! 🎉🎉🎉
+
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome,%20visitor!;Hello%20Github%20World!&font=Roboto" />
 
 ![](https://raw.githubusercontent.com/Wonderful-Me/Wonderful-Me/main/assets/github-contribution-grid-snake.svg)
 
