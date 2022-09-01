@@ -1,7 +1,6 @@
 # Hi, Welcome to xyy's Github Homepage! 🎉🎉🎉
 
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome,%20visitor!;Hello%20Github%20World!&font=Roboto" />
-
 ![](https://raw.githubusercontent.com/Wonderful-Me/Wonderful-Me/main/assets/github-contribution-grid-snake.svg)
 ## Hi, I'm Infinity! ![](https://visitor-badge.glitch.me/badge?page_id=Wonderful-Me.readme)
 - 🔭 I’m currently major in Computer Science and Technology.
