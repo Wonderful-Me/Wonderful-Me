@@ -18,7 +18,7 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-192133?style=flat-square&logo=markdown&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/-Obsidian-192133?style=flat-square&logo=obsidian&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-192133?style=flat-square&logo=jupyter&logoColor=white) 
-![Visual Studio Code](https://img.shields.io/badge/-Visual Studio Code-192133?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Visual_Studio_Code](https://img.shields.io/badge/-Visual_Studio_Code-192133?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 ## :game_die: Join my community [Gomoku(五子棋)](https://en.wikipedia.org/wiki/Gomoku) game!
 
