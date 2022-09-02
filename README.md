@@ -1,26 +1,28 @@
 # Welcome to xyy's Github Homepage! 🎉🎉🎉
 <!-- <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome,%20visitor!;Hello%20Github%20World!&font=Roboto" />  -->
 
+## Calendar-view contributions
+
 ![](https://raw.githubusercontent.com/Wonderful-Me/Wonderful-Me/main/assets/github-contribution-grid-snake.svg) 
-![githu_activity_chart](https://activity-graph.herokuapp.com/graph?username=Wonderful-Me&theme=default&bg_color=fcfcca&hide_title=true&area_color=fcfcca)
 
 ## Hi, I'm Infinity! ![](https://visitor-badge.glitch.me/badge?page_id=Wonderful-Me.readme) 
-🔭 Major in Computer Science and Technology.
-🌱 Currently learning in ***System Group***.
-🤔 Look for help with HPC project.
-💬 Reach me through QQ: 642741043
-📫 Wechat: 13613889758 (tel)
-⚡ My Blog: [**Blog**](https://wonderful-me.github.io/) (to be done)
+- 🔭 Major in Computer Science and Technology. 
+- 🌱 Currently learning in ***System Group***. 
+- 🤔 Look for help with HPC project. 
+- 💬 Reach me through QQ: 642741043 
+- 📫 Wechat: 13613889758 (tel) 
+- ⚡ My Blog: [**Blog**](https://wonderful-me.github.io/) (to be done) 
 
-## Skill Stack
+:game_die: **Join my community [Gomoku(五子棋)](#head1234) game!**
+> click [**here**](#head1234) to jump!<br />
+
+## Skills Stack
 
 ![Obsidian](https://img.shields.io/badge/-Obsidian-192133?style=flat-square&logo=obsidian&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-192133?style=flat-square&logo=jupyter&logoColor=white) 
 ![Visual_Studio_Code](https://img.shields.io/badge/-Visual_Studio_Code-192133?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Adobe_Photoshop](https://img.shields.io/badge/-Adobe_Photoshop-192133?style=flat-square&logo=adobephotoshop&logoColor=white)
+![Adobe_Photoshop](https://img.shields.io/badge/-Adobe_Photoshop-192133?style=flat-square&logo=adobephotoshop&logoColor=white) 
 ![Adobe_Premiere_Pro](https://img.shields.io/badge/-Adobe_Premiere_Pro-192133?style=flat-square&logo=adobepremierepro&logoColor=white)
-
-## Languages
 
 ![C++](https://img.shields.io/badge/-C++-%23ff0000?logo=cplusplus&style=for-the-badge&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-%233776ab?logo=python&style=for-the-badge&logoColor=white)
@@ -29,9 +31,14 @@
 ![Html5](https://img.shields.io/badge/-HTML5-%2311efef?logo=html5&style=for-the-badge&logoColor=white) 
 ![Flask](https://img.shields.io/badge/-Flask-%23eeeeee?logo=flask&style=for-the-badge&logoColor=black) 
 ![Markdown](https://img.shields.io/badge/-Markdown-%23000000?logo=markdown&style=for-the-badge&logoColor=white) 
+
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Wonderful-Me&theme=dracula&layout=compact) 
 
-## :game_die: Join my community [Gomoku(五子棋)](https://en.wikipedia.org/wiki/Gomoku) game!
+## Recent Activities
+![githu_activity_chart](https://activity-graph.herokuapp.com/graph?username=Wonderful-Me&theme=dracula&hide_title=true&hide_border=true)
+<br /><br />
+
+## <a name="head1234"></a>:game_die: Join my community [Gomoku(五子棋)](https://en.wikipedia.org/wiki/Gomoku) game!
 
 <!--START_SECTION:gomoku-->
 ![](https://img.shields.io/badge/Total%20moves-276-blue)
