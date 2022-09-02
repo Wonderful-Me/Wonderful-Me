@@ -21,6 +21,8 @@
 ![Jupyter](https://img.shields.io/badge/-Jupyter-192133?style=flat-square&logo=jupyter&logoColor=white) 
 ![Visual_Studio_Code](https://img.shields.io/badge/-Visual_Studio_Code-192133?style=flat-square&logo=visualstudiocode&logoColor=white)
 
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Wonderful-Me&theme=dark&layout=compact) 
+
 ## :game_die: Join my community [Gomoku(五子棋)](https://en.wikipedia.org/wiki/Gomoku) game!
 
 <!--START_SECTION:gomoku-->
@@ -78,7 +80,6 @@ It's the **white** team's turn to play. ![](/assets/white.png)
 
 ## Brief Summary ✨
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Wonderful-Me&show_icons=true&theme=dark&count_private=true) 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Wonderful-Me&theme=dark&layout=compact) 
 ![](https://activity-graph.herokuapp.com/graph?username=Wonderful-Me&theme=github)
 
 
