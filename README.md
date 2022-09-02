@@ -21,7 +21,7 @@
 ![Jupyter](https://img.shields.io/badge/-Jupyter-192133?style=flat-square&logo=jupyter&logoColor=white) 
 ![Visual_Studio_Code](https://img.shields.io/badge/-Visual_Studio_Code-192133?style=flat-square&logo=visualstudiocode&logoColor=white)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Wonderful-Me&theme=dark&layout=compact) 
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Wonderful-Me&theme=white&layout=compact) 
 
 ## :game_die: Join my community [Gomoku(五子棋)](https://en.wikipedia.org/wiki/Gomoku) game!
 
