@@ -3,12 +3,12 @@
 
 ![](https://raw.githubusercontent.com/Wonderful-Me/Wonderful-Me/main/assets/github-contribution-grid-snake.svg) 
 ## Hi, I'm Infinity! ![](https://visitor-badge.glitch.me/badge?page_id=Wonderful-Me.readme) 
-- 🔭 I’m currently major in Computer Science and Technology.
-- 🌱 I’m currently learning in *System Group*.
-- 🤔 I’m looking for help with HPC project.
+- 🔭 Major in Computer Science and Technology.
+- 🌱 Currently learning in *System Group*.
+- 🤔 Look for help with HPC project.
 - 💬 Reach me through QQ: 642741043
 - 📫 Wechat: 13613889758 (tel)
-- ⚡ Fun fact: [Blog](https://wonderful-me.github.io/) (to be done)
+- ⚡ My Blog: [**Blog**](https://wonderful-me.github.io/) (to be done)
 
 ## Tech Stack
 ![C++](https://img.shields.io/badge/-C++-%23ff0000?logo=cplusplus&style=for-the-badge&logoColor=white)
