@@ -2,16 +2,17 @@
 <!-- <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome,%20visitor!;Hello%20Github%20World!&font=Roboto" />  -->
 
 ![](https://raw.githubusercontent.com/Wonderful-Me/Wonderful-Me/main/assets/github-contribution-grid-snake.svg) 
+![](https://activity-graph.herokuapp.com/graph?username=Wonderful-Me&theme=github)
 
 ## Hi, I'm Infinity! ![](https://visitor-badge.glitch.me/badge?page_id=Wonderful-Me.readme) 
-- 🔭 Major in Computer Science and Technology.
-- 🌱 Currently learning in ***System Group***.
-- 🤔 Look for help with HPC project.
-- 💬 Reach me through QQ: 642741043
-- 📫 Wechat: 13613889758 (tel)
-- ⚡ My Blog: [**Blog**](https://wonderful-me.github.io/) (to be done)
+🔭 Major in Computer Science and Technology.
+🌱 Currently learning in ***System Group***.
+🤔 Look for help with HPC project.
+💬 Reach me through QQ: 642741043
+📫 Wechat: 13613889758 (tel)
+⚡ My Blog: [**Blog**](https://wonderful-me.github.io/) (to be done)
 
-## SoftW Stack
+## Skill Stack
 
 ![Obsidian](https://img.shields.io/badge/-Obsidian-192133?style=flat-square&logo=obsidian&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-192133?style=flat-square&logo=jupyter&logoColor=white) 
@@ -87,7 +88,6 @@ It's the **white** team's turn to play. ![](/assets/white.png)
 
 ## Brief Summary ✨
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Wonderful-Me&show_icons=true&theme=dark&count_private=true) 
-![](https://activity-graph.herokuapp.com/graph?username=Wonderful-Me&theme=github)
 
 
 
