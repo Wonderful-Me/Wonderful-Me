@@ -2,6 +2,7 @@
 <!-- <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome,%20visitor!;Hello%20Github%20World!&font=Roboto" />  -->
 
 ![](https://raw.githubusercontent.com/Wonderful-Me/Wonderful-Me/main/assets/github-contribution-grid-snake.svg) 
+
 ## Hi, I'm Infinity! ![](https://visitor-badge.glitch.me/badge?page_id=Wonderful-Me.readme) 
 - 🔭 Major in Computer Science and Technology.
 - 🌱 Currently learning in ***System Group***.
@@ -18,12 +19,14 @@
 ![Adobe_Photoshop](https://img.shields.io/badge/-Adobe_Photoshop-192133?style=flat-square&logo=adobephotoshop&logoColor=white)
 ![Adobe_Premiere_Pro](https://img.shields.io/badge/-Adobe_Premiere_Pro-192133?style=flat-square&logo=adobepremierepro&logoColor=white)
 
-## Langs
+## Languages
+
 ![C++](https://img.shields.io/badge/-C++-%23ff0000?logo=cplusplus&style=for-the-badge&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-%233776ab?logo=python&style=for-the-badge&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%237f7f7f?logo=javascript&style=for-the-badge&logoColor=white)
-![Html5](https://img.shields.io/badge/-HTML5-%2311efef?logo=html5&style=for-the-badge&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-%23eeeeee?logo=flask&style=for-the-badge&logoColor=black)
+![System_Verilog](https://img.shields.io/badge/-Verilog-%2310ff1e?logo=apachecordova&style=for-the-badge&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/-JavaScript-%237f7f7f?logo=javascript&style=for-the-badge&logoColor=white) 
+![Html5](https://img.shields.io/badge/-HTML5-%2311efef?logo=html5&style=for-the-badge&logoColor=white) 
+![Flask](https://img.shields.io/badge/-Flask-%23eeeeee?logo=flask&style=for-the-badge&logoColor=black) 
 ![Markdown](https://img.shields.io/badge/-Markdown-%23000000?logo=markdown&style=for-the-badge&logoColor=white) 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Wonderful-Me&theme=dracula&layout=compact) 
 
