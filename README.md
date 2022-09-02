@@ -2,7 +2,7 @@
 <!-- <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome,%20visitor!;Hello%20Github%20World!&font=Roboto" />  -->
 
 ![](https://raw.githubusercontent.com/Wonderful-Me/Wonderful-Me/main/assets/github-contribution-grid-snake.svg) 
-![githu_activity_chart](https://activity-graph.herokuapp.com/graph?username=Wonderful-Me&theme=default&bg_color=%23fcfcca&hide_title=true&area_color=%23ffffff)
+![githu_activity_chart](https://activity-graph.herokuapp.com/graph?username=Wonderful-Me&theme=default&bg_color=%23fcfcca&hide_title=true&area_color=%23fcfcca)
 
 ## Hi, I'm Infinity! ![](https://visitor-badge.glitch.me/badge?page_id=Wonderful-Me.readme) 
 🔭 Major in Computer Science and Technology.
