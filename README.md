@@ -1,9 +1,9 @@
 # Welcome to xyy's Github Homepage! 🎉🎉🎉
 <!-- <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome,%20visitor!;Hello%20Github%20World!&font=Roboto" />  -->
 
-## Calendar-view contributions
-
 ![](https://raw.githubusercontent.com/Wonderful-Me/Wonderful-Me/main/assets/github-contribution-grid-snake.svg) 
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Wonderful-Me&show_icons=true&theme=dark&count_private=true) 
 
 ## Hi, I'm Infinity! ![](https://visitor-badge.glitch.me/badge?page_id=Wonderful-Me.readme) 
 - 🔭 Major in Computer Science and Technology. 
@@ -16,7 +16,7 @@
 :game_die: **Join my community [Gomoku(五子棋)](#head1234) game!**
 > click [**here**](#head1234) to jump!<br />
 
-## Skills Stack
+## Skills Stack ✨
 
 ![Obsidian](https://img.shields.io/badge/-Obsidian-192133?style=flat-square&logo=obsidian&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-192133?style=flat-square&logo=jupyter&logoColor=white) 
@@ -35,7 +35,7 @@
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Wonderful-Me&theme=dracula&layout=compact) 
 
 ## Recent Activities
-![githu_activity_chart](https://activity-graph.herokuapp.com/graph?username=Wonderful-Me&theme=dracula&hide_title=true&hide_border=true)
+![githu_activity_chart](https://activity-graph.herokuapp.com/graph?username=Wonderful-Me&theme=dracula)
 <br /><br />
 
 ## <a name="head1234"></a>:game_die: Join my community [Gomoku(五子棋)](https://en.wikipedia.org/wiki/Gomoku) game!
@@ -52,8 +52,6 @@ It's the **white** team's turn to play. ![](/assets/white.png)
 
 [![Surrender](https://img.shields.io/badge/Surrender%20-%2348e3c9.svg?&style=for-the-badge&logoColor=white)](https://github.com/Wonderful-Me/Wonderful-Me/issues/new?title=gomoku%7Csurrender&labels=gomoku&body=Just+push+%27Submit+new+issue%27+without+editing+the+title.+The+README+will+be+updated+after+approximately+30+seconds.)
 
-
-
 | |A|B|C|D|E|F|G|H|I|
 | - | - | - | - | - | - | - | - | - | - |
 | 1 | ![](/assets/white.png) |[![](/assets/blank.png)](https://github.com/Wonderful-Me/Wonderful-Me/issues/new?title=gomoku%7Cdrop%7Cwhite%7CB1&labels=gomoku&body=Just+push+%27Submit+new+issue%27+without+editing+the+title.+The+README+will+be+updated+after+approximately+30+seconds.) |[![](/assets/blank.png)](https://github.com/Wonderful-Me/Wonderful-Me/issues/new?title=gomoku%7Cdrop%7Cwhite%7CC1&labels=gomoku&body=Just+push+%27Submit+new+issue%27+without+editing+the+title.+The+README+will+be+updated+after+approximately+30+seconds.) |[![](/assets/blank.png)](https://github.com/Wonderful-Me/Wonderful-Me/issues/new?title=gomoku%7Cdrop%7Cwhite%7CD1&labels=gomoku&body=Just+push+%27Submit+new+issue%27+without+editing+the+title.+The+README+will+be+updated+after+approximately+30+seconds.) |[![](/assets/blank.png)](https://github.com/Wonderful-Me/Wonderful-Me/issues/new?title=gomoku%7Cdrop%7Cwhite%7CE1&labels=gomoku&body=Just+push+%27Submit+new+issue%27+without+editing+the+title.+The+README+will+be+updated+after+approximately+30+seconds.) |[![](/assets/blank.png)](https://github.com/Wonderful-Me/Wonderful-Me/issues/new?title=gomoku%7Cdrop%7Cwhite%7CF1&labels=gomoku&body=Just+push+%27Submit+new+issue%27+without+editing+the+title.+The+README+will+be+updated+after+approximately+30+seconds.) |[![](/assets/blank.png)](https://github.com/Wonderful-Me/Wonderful-Me/issues/new?title=gomoku%7Cdrop%7Cwhite%7CG1&labels=gomoku&body=Just+push+%27Submit+new+issue%27+without+editing+the+title.+The+README+will+be+updated+after+approximately+30+seconds.) |[![](/assets/blank.png)](https://github.com/Wonderful-Me/Wonderful-Me/issues/new?title=gomoku%7Cdrop%7Cwhite%7CH1&labels=gomoku&body=Just+push+%27Submit+new+issue%27+without+editing+the+title.+The+README+will+be+updated+after+approximately+30+seconds.) |[![](/assets/blank.png)](https://github.com/Wonderful-Me/Wonderful-Me/issues/new?title=gomoku%7Cdrop%7Cwhite%7CI1&labels=gomoku&body=Just+push+%27Submit+new+issue%27+without+editing+the+title.+The+README+will+be+updated+after+approximately+30+seconds.) |
@@ -65,7 +63,6 @@ It's the **white** team's turn to play. ![](/assets/white.png)
 | 7 | [![](/assets/blank.png)](https://github.com/Wonderful-Me/Wonderful-Me/issues/new?title=gomoku%7Cdrop%7Cwhite%7CA7&labels=gomoku&body=Just+push+%27Submit+new+issue%27+without+editing+the+title.+The+README+will+be+updated+after+approximately+30+seconds.) |[![](/assets/blank.png)](https://github.com/Wonderful-Me/Wonderful-Me/issues/new?title=gomoku%7Cdrop%7Cwhite%7CB7&labels=gomoku&body=Just+push+%27Submit+new+issue%27+without+editing+the+title.+The+README+will+be+updated+after+approximately+30+seconds.) |[![](/assets/blank.png)](https://github.com/Wonderful-Me/Wonderful-Me/issues/new?title=gomoku%7Cdrop%7Cwhite%7CC7&labels=gomoku&body=Just+push+%27Submit+new+issue%27+without+editing+the+title.+The+README+will+be+updated+after+approximately+30+seconds.) |[![](/assets/blank.png)](https://github.com/Wonderful-Me/Wonderful-Me/issues/new?title=gomoku%7Cdrop%7Cwhite%7CD7&labels=gomoku&body=Just+push+%27Submit+new+issue%27+without+editing+the+title.+The+README+will+be+updated+after+approximately+30+seconds.) |[![](/assets/blank.png)](https://github.com/Wonderful-Me/Wonderful-Me/issues/new?title=gomoku%7Cdrop%7Cwhite%7CE7&labels=gomoku&body=Just+push+%27Submit+new+issue%27+without+editing+the+title.+The+README+will+be+updated+after+approximately+30+seconds.) |[![](/assets/blank.png)](https://github.com/Wonderful-Me/Wonderful-Me/issues/new?title=gomoku%7Cdrop%7Cwhite%7CF7&labels=gomoku&body=Just+push+%27Submit+new+issue%27+without+editing+the+title.+The+README+will+be+updated+after+approximately+30+seconds.) |[![](/assets/blank.png)](https://github.com/Wonderful-Me/Wonderful-Me/issues/new?title=gomoku%7Cdrop%7Cwhite%7CG7&labels=gomoku&body=Just+push+%27Submit+new+issue%27+without+editing+the+title.+The+README+will+be+updated+after+approximately+30+seconds.) |[![](/assets/blank.png)](https://github.com/Wonderful-Me/Wonderful-Me/issues/new?title=gomoku%7Cdrop%7Cwhite%7CH7&labels=gomoku&body=Just+push+%27Submit+new+issue%27+without+editing+the+title.+The+README+will+be+updated+after+approximately+30+seconds.) |[![](/assets/blank.png)](https://github.com/Wonderful-Me/Wonderful-Me/issues/new?title=gomoku%7Cdrop%7Cwhite%7CI7&labels=gomoku&body=Just+push+%27Submit+new+issue%27+without+editing+the+title.+The+README+will+be+updated+after+approximately+30+seconds.) |
 | 8 | [![](/assets/blank.png)](https://github.com/Wonderful-Me/Wonderful-Me/issues/new?title=gomoku%7Cdrop%7Cwhite%7CA8&labels=gomoku&body=Just+push+%27Submit+new+issue%27+without+editing+the+title.+The+README+will+be+updated+after+approximately+30+seconds.) |[![](/assets/blank.png)](https://github.com/Wonderful-Me/Wonderful-Me/issues/new?title=gomoku%7Cdrop%7Cwhite%7CB8&labels=gomoku&body=Just+push+%27Submit+new+issue%27+without+editing+the+title.+The+README+will+be+updated+after+approximately+30+seconds.) |[![](/assets/blank.png)](https://github.com/Wonderful-Me/Wonderful-Me/issues/new?title=gomoku%7Cdrop%7Cwhite%7CC8&labels=gomoku&body=Just+push+%27Submit+new+issue%27+without+editing+the+title.+The+README+will+be+updated+after+approximately+30+seconds.) |[![](/assets/blank.png)](https://github.com/Wonderful-Me/Wonderful-Me/issues/new?title=gomoku%7Cdrop%7Cwhite%7CD8&labels=gomoku&body=Just+push+%27Submit+new+issue%27+without+editing+the+title.+The+README+will+be+updated+after+approximately+30+seconds.) |[![](/assets/blank.png)](https://github.com/Wonderful-Me/Wonderful-Me/issues/new?title=gomoku%7Cdrop%7Cwhite%7CE8&labels=gomoku&body=Just+push+%27Submit+new+issue%27+without+editing+the+title.+The+README+will+be+updated+after+approximately+30+seconds.) |[![](/assets/blank.png)](https://github.com/Wonderful-Me/Wonderful-Me/issues/new?title=gomoku%7Cdrop%7Cwhite%7CF8&labels=gomoku&body=Just+push+%27Submit+new+issue%27+without+editing+the+title.+The+README+will+be+updated+after+approximately+30+seconds.) |[![](/assets/blank.png)](https://github.com/Wonderful-Me/Wonderful-Me/issues/new?title=gomoku%7Cdrop%7Cwhite%7CG8&labels=gomoku&body=Just+push+%27Submit+new+issue%27+without+editing+the+title.+The+README+will+be+updated+after+approximately+30+seconds.) |[![](/assets/blank.png)](https://github.com/Wonderful-Me/Wonderful-Me/issues/new?title=gomoku%7Cdrop%7Cwhite%7CH8&labels=gomoku&body=Just+push+%27Submit+new+issue%27+without+editing+the+title.+The+README+will+be+updated+after+approximately+30+seconds.) |[![](/assets/blank.png)](https://github.com/Wonderful-Me/Wonderful-Me/issues/new?title=gomoku%7Cdrop%7Cwhite%7CI8&labels=gomoku&body=Just+push+%27Submit+new+issue%27+without+editing+the+title.+The+README+will+be+updated+after+approximately+30+seconds.) |
 | 9 | [![](/assets/blank.png)](https://github.com/Wonderful-Me/Wonderful-Me/issues/new?title=gomoku%7Cdrop%7Cwhite%7CA9&labels=gomoku&body=Just+push+%27Submit+new+issue%27+without+editing+the+title.+The+README+will+be+updated+after+approximately+30+seconds.) |[![](/assets/blank.png)](https://github.com/Wonderful-Me/Wonderful-Me/issues/new?title=gomoku%7Cdrop%7Cwhite%7CB9&labels=gomoku&body=Just+push+%27Submit+new+issue%27+without+editing+the+title.+The+README+will+be+updated+after+approximately+30+seconds.) |[![](/assets/blank.png)](https://github.com/Wonderful-Me/Wonderful-Me/issues/new?title=gomoku%7Cdrop%7Cwhite%7CC9&labels=gomoku&body=Just+push+%27Submit+new+issue%27+without+editing+the+title.+The+README+will+be+updated+after+approximately+30+seconds.) |[![](/assets/blank.png)](https://github.com/Wonderful-Me/Wonderful-Me/issues/new?title=gomoku%7Cdrop%7Cwhite%7CD9&labels=gomoku&body=Just+push+%27Submit+new+issue%27+without+editing+the+title.+The+README+will+be+updated+after+approximately+30+seconds.) |[![](/assets/blank.png)](https://github.com/Wonderful-Me/Wonderful-Me/issues/new?title=gomoku%7Cdrop%7Cwhite%7CE9&labels=gomoku&body=Just+push+%27Submit+new+issue%27+without+editing+the+title.+The+README+will+be+updated+after+approximately+30+seconds.) |[![](/assets/blank.png)](https://github.com/Wonderful-Me/Wonderful-Me/issues/new?title=gomoku%7Cdrop%7Cwhite%7CF9&labels=gomoku&body=Just+push+%27Submit+new+issue%27+without+editing+the+title.+The+README+will+be+updated+after+approximately+30+seconds.) |[![](/assets/blank.png)](https://github.com/Wonderful-Me/Wonderful-Me/issues/new?title=gomoku%7Cdrop%7Cwhite%7CG9&labels=gomoku&body=Just+push+%27Submit+new+issue%27+without+editing+the+title.+The+README+will+be+updated+after+approximately+30+seconds.) |[![](/assets/blank.png)](https://github.com/Wonderful-Me/Wonderful-Me/issues/new?title=gomoku%7Cdrop%7Cwhite%7CH9&labels=gomoku&body=Just+push+%27Submit+new+issue%27+without+editing+the+title.+The+README+will+be+updated+after+approximately+30+seconds.) |[![](/assets/blank.png)](https://github.com/Wonderful-Me/Wonderful-Me/issues/new?title=gomoku%7Cdrop%7Cwhite%7CI9&labels=gomoku&body=Just+push+%27Submit+new+issue%27+without+editing+the+title.+The+README+will+be+updated+after+approximately+30+seconds.) |
-
 
 **:alarm_clock: Most recent moves**
 | Team | Move | Made by |
@@ -92,9 +89,6 @@ It's the **white** team's turn to play. ![](/assets/white.png)
 | [@Where-is-Beat](https://github.com/Where-is-Beat) | 1 |
 
 <!--END_SECTION:gomoku-->
+<br />
 
-## Brief Summary ✨
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Wonderful-Me&show_icons=true&theme=dark&count_private=true) 
-
-
-
+# Thanks for visiting my Github Homepage! :smiley::laughing:
