@@ -89,6 +89,5 @@ It's the **white** team's turn to play. ![](/assets/white.png)
 | [@Where-is-Beat](https://github.com/Where-is-Beat) | 1 |
 
 <!--END_SECTION:gomoku-->
-<br />
 
 # Thanks for visiting my Github Homepage! :smiley::laughing:
