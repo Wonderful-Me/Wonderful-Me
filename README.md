@@ -1,4 +1,4 @@
-# Welcome to Yuanyuan's Github Homepage! 🎉🎉🎉
+# Welcome to Yuanyuan's Github Homepage!
 
 ## Hi, I'm Infinity! ![](https://visitor-badge.glitch.me/badge?page_id=Wonderful-Me.readme) 
 - 🔭 Major in Computer Science. 
@@ -24,9 +24,3 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-%23000000?logo=markdown&style=for-the-badge&logoColor=white) 
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Wonderful-Me&theme=dracula&layout=compact) 
-
-## Recent Activities
-![githu_activity_chart](https://activity-graph.herokuapp.com/graph?username=Wonderful-Me&theme=dracula)
-<br /><br />
-
-# Thanks for visiting my Github Homepage! :smiley::laughing:
