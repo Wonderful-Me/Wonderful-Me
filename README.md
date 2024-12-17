@@ -1,15 +1,9 @@
-# Welcome to xyy's Github Homepage! 🎉🎉🎉
-<!-- <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome,%20visitor!;Hello%20Github%20World!&font=Roboto" />  -->
-
-![](https://raw.githubusercontent.com/Wonderful-Me/Wonderful-Me/main/assets/github-contribution-grid-snake.svg) 
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Wonderful-Me&show_icons=true&theme=dark&count_private=true) 
+# Welcome to Yuanyuan's Github Homepage! 🎉🎉🎉
 
 ## Hi, I'm Infinity! ![](https://visitor-badge.glitch.me/badge?page_id=Wonderful-Me.readme) 
 - 🔭 Major in Computer Science and Technology. 
 - 🌱 Currently learning in ***System Group***. 
-- 🤔 Look for help with HPC project. 
-- 💬 Reach me through QQ: 642741043 
+- 💬 Reach me through email: yx102@rice.edu. 
 - 📫 Wechat: 13613889758 (tel) 
 - ⚡ My Blog: [**Blog**](https://wonderful-me.github.io/) (to be done) 
 
