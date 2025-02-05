@@ -5,7 +5,7 @@
 - 🌱 Interested in MLSYS and Networking research. 
 - 💬 Reach me through email: yx102@rice.edu. 
 - 📫 Wechat: 13613889758 (tel) 
-- ⚡ My Blog: [**Blog**](https://wonderful-me.github.io/) (to be done) 
+- ⚡ My Blog: (to be done) 
 
 ## Skills Stack ✨
 
