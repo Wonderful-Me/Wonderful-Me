@@ -22,5 +22,3 @@
 ![Html5](https://img.shields.io/badge/-HTML5-%2311efef?logo=html5&style=for-the-badge&logoColor=white) 
 ![Flask](https://img.shields.io/badge/-Flask-%23eeeeee?logo=flask&style=for-the-badge&logoColor=black) 
 ![Markdown](https://img.shields.io/badge/-Markdown-%23000000?logo=markdown&style=for-the-badge&logoColor=white) 
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Wonderful-Me&theme=dracula&layout=compact) 
